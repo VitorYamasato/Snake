@@ -1,1 +1,31 @@
-
+body {
+    font-family: Arial, sans-serif;
+    background-color: black;
+    color: white;
+    margin: 0;
+    padding: 0;
+    }
+    header{
+    background-color: aquamarine;
+    padding: 1.5em;
+    text-align:center;
+    }
+    main{
+    padding: 2em;
+    max-width: 800px;
+    margin:auto;
+    }
+    section{
+     margin-bottom: 2em;
+    }
+    footer{
+    background-color: aquamarine;
+    color: black;
+    text-align: center;
+    padding: 1em;
+    margin-top: 2em;
+    }
+    img{
+    width: 800px;
+    height: 500px;
+    }
